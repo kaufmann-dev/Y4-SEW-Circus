@@ -1,0 +1,23 @@
+@page "/clownform"
+@using Model.Entities
+@using Domain.Repositories.Interfaces
+@inject IRepository<Clown> _repository
+@inject ILogger<Clownform> _logger
+<h3>Clownform</h3>
+<EditForm Model="@Clown" OnValidSubmit="async () => await CreateClown()">
+    <DataAnnotationsValidator/>
+    <label>Name</label>
+    <InputText @bind-Value="@Clown.Name"/>
+    <ValidationMessage For="() => Clown.Name"/>
+    <button type="submit" class="btn btn-info">Create</button>
+</EditForm>
+@code {
+
+    public Clown Clown { get; set; } = new Clown();
+
+    private async Task CreateClown() {
+        await _repository.CreateAsync(Clown);
+        _logger.LogInformation($"Created clown: {Clown.Id}");
+    }
+
+}

@@ -1,0 +1,49 @@
+@page "/circuses/{CircusId:int}"
+@using Model.Entities
+@using Domain.Repositories.Interfaces
+@inject IRepository<Circus> _repository;
+
+<h3>Circus @CircusId</h3>
+@if (Circus is not null)
+{
+    <div class="card">
+        <div class="card-body">
+            <div class="card-title text-info">@Circus.Name</div>
+            <table class="table-sm table-striped">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var clown in Circus.ClownList)
+                {
+                    <tr>
+                        <td>@clown.Name</td>
+                    </tr>
+                }
+                </tbody>
+                
+            </table>
+        </div>
+    </div>
+}
+else
+{
+    <span>Loading...</span>
+}
+
+@code {
+    
+    
+    [Parameter]
+    public int CircusId { get; set; }
+
+    public Circus Circus { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        Circus = await _repository.ReadAsync(CircusId);
+    }
+
+}

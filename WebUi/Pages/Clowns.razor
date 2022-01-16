@@ -1,0 +1,35 @@
+@page "/clowns"
+@using Domain.Repositories.Interfaces
+@using Model.Entities
+@inject IRepository<Clown> _repository
+<h3>Clowns</h3>
+@if (ClownList is not null) {
+    <table>
+        <thead>
+        <tr>
+            <th>Id</th>
+            <td>Name</td>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var clown in ClownList) {
+            <tr>
+                <td>@clown.Id</td>
+                <td>@clown.Name</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else {
+    <span>Is loading...</span>
+}
+@code {
+
+    public List<Clown> ClownList { get; set; }
+
+    protected override async Task OnInitializedAsync() {
+        ClownList = await _repository.ReadAllAsync();
+    }
+
+}

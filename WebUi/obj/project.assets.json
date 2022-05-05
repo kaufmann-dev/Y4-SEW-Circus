@@ -748,11 +748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\WebUi\\WebUi.csproj",
+      "projectUniqueName": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\WebUi\\WebUi.csproj",
       "projectName": "WebUi",
-      "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\WebUi\\WebUi.csproj",
+      "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\WebUi\\WebUi.csproj",
       "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\WebUi\\obj\\",
+      "outputPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\WebUi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -767,11 +767,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\Domain.csproj"
+            "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj"
+            "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj"
             }
           }
         }

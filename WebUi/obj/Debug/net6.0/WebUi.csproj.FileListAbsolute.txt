@@ -76,3 +76,42 @@ C:\Users\serbi\Downloads\TestUebung\TestUebung\WebUi\obj\Debug\net6.0\WebUi.dll
 C:\Users\serbi\Downloads\TestUebung\TestUebung\WebUi\obj\Debug\net6.0\ref\WebUi.dll
 C:\Users\serbi\Downloads\TestUebung\TestUebung\WebUi\obj\Debug\net6.0\WebUi.pdb
 C:\Users\serbi\Downloads\TestUebung\TestUebung\WebUi\obj\Debug\net6.0\WebUi.genruntimeconfig.cache
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\appsettings.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\WebUi.staticwebassets.runtime.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\WebUi.exe
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\WebUi.deps.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\WebUi.runtimeconfig.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\WebUi.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\ref\WebUi.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\WebUi.pdb
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Model.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\bin\Debug\net6.0\Model.pdb
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.RazorAssemblyInfo.cache
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.RazorAssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\scopedcss\bundle\WebUi.styles.css
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\scopedcss\projectbundle\WebUi.bundle.scp.css
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\ref\WebUi.dll
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.pdb
+C:\Users\serbi\Documents\School projects\Circus3\WebUi\obj\Debug\net6.0\WebUi.genruntimeconfig.cache

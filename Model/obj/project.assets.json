@@ -746,11 +746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\obj\\",
+      "outputPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"

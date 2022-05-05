@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\Domain.csproj": {}
+    "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\Domain.csproj": {
+    "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj"
+              "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj": {
+    "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serbi\\Downloads\\TestUebung\\TestUebung\\Model\\obj\\",
+        "outputPath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"

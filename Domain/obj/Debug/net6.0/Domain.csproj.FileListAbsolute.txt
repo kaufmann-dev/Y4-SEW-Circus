@@ -28,3 +28,18 @@ C:\Users\serbi\Downloads\TestUebung\TestUebung\Domain\obj\Debug\net6.0\Domain.cs
 C:\Users\serbi\Downloads\TestUebung\TestUebung\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\serbi\Downloads\TestUebung\TestUebung\Domain\obj\Debug\net6.0\ref\Domain.dll
 C:\Users\serbi\Downloads\TestUebung\TestUebung\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\Circus3\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\serbi\Documents\School projects\Circus3\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\Circus3\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\serbi\Documents\School projects\Circus3\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\serbi\Documents\School projects\Circus3\Domain\bin\Debug\net6.0\Model.dll
+C:\Users\serbi\Documents\School projects\Circus3\Domain\bin\Debug\net6.0\Model.pdb
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\serbi\Documents\School projects\Circus3\Domain\obj\Debug\net6.0\Domain.pdb

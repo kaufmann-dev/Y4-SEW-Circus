@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hBOKArvBuvVYu8W34nYFVlQl1eesHtl3tyXEAMk9cITmaNoUDP8PfTo2YQoqZlg9qg/2b0eJO2k4LnkO1ZPrbA==",
+  "dgSpecHash": "P6hTcIZoCA2/BjcWp8+9QTwUAbv6zecZ1eTFoEZR//wvOXeL16Qf1q+Fkco8O66qAKJDJGNAQl6uU/67k+UciA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serbi\\Documents\\School projects\\Circus3\\Model\\Model.csproj",
+  "projectFilePath": "C:\\Users\\serbi\\Documents\\School projects\\Circus\\Model\\Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serbi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serbi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
